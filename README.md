@@ -16,3 +16,9 @@ Before start using the application you have to do 4 steps
      ``` Update-Database ```
 
   At this point the webapp should works!
+
+# MyLibrary
+Here you can find your books by clicking on the MyLibrary button on the top of the page.
+![Screenshot 2024-05-05 215444](https://github.com/FullMonkeyy/MicrosoftBooks-WebApplicationProject/assets/144152021/6a77db96-efaa-4a04-b501-0e4736dc5bdb)
+In this page you can manage your books and see thei description and genres.
+
