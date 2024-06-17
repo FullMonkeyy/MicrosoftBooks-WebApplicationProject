@@ -24,10 +24,11 @@ In this page you can manage your books and see thei description and genres.
 
 # To add a new book
 In this page you'll be able to add a new book.
-  1. Click this button ![Screenshot 2024-05-05 215444 - Copy](https://github.com/FullMonkeyy/MicrosoftBooks-WebApplicationProject/assets/144152021/4f37ecaa-e8ea-4f22-af09-914a549600b2)
-  2. Choose the shelf where you wanna put your book
-  3. Choose the genres which your book owns.
-  4. Type Title,Author,Story, number of paged and the cover image. (If there is any kind of problem with the Title or Author just avoid to type punctuation. In that case you'll write the correct punctuation in the book editing page)
+  1. Click this button
+     ![Screenshot 2024-05-05 215444 - Copy](https://github.com/FullMonkeyy/MicrosoftBooks-WebApplicationProject/assets/144152021/f3bf7837-ef60-4f0a-9a8d-d631fb11f303)
+  3. Choose the shelf where you wanna put your book
+  4. Choose the genres which your book owns.
+  5. Type Title,Author,Story, number of paged and the cover image. (If there is any kind of problem with the Title or Author just avoid to type punctuation. In that case you'll write the correct punctuation in the book editing page)
 
 In the end you'll find your book in My Library.
 ![image](https://github.com/FullMonkeyy/MicrosoftBooks-WebApplicationProject/assets/144152021/39515466-6f16-4020-8f26-6422f642f744)
