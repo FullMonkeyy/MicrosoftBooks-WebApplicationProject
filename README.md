@@ -32,4 +32,6 @@ In this page you'll be able to add a new book.
      ![image](https://github.com/FullMonkeyy/MicrosoftBooks-WebApplicationProject/assets/144152021/39515466-6f16-4020-8f26-6422f642f744)
 In the end you'll find your book in My Library.
 
+# To edit a book
+
   
