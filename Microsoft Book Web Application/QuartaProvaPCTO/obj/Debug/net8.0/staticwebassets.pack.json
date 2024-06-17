@@ -1,0 +1,253 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\AddShelf.html",
+      "PackagePath": "staticwebassets\\AddShelf.html"
+    },
+    {
+      "Id": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\AddingBook.html",
+      "PackagePath": "staticwebassets\\AddingBook.html"
+    },
+    {
+      "Id": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\BookViewer.html",
+      "PackagePath": "staticwebassets\\BookViewer.html"
+    },
+    {
+      "Id": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\CSS\\AddGenre.css",
+      "PackagePath": "staticwebassets\\CSS\\AddGenre.css"
+    },
+    {
+      "Id": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\CSS\\AddShelf.css",
+      "PackagePath": "staticwebassets\\CSS\\AddShelf.css"
+    },
+    {
+      "Id": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\CSS\\AddingBookCss.css",
+      "PackagePath": "staticwebassets\\CSS\\AddingBookCss.css"
+    },
+    {
+      "Id": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\CSS\\Assets\\3points.png",
+      "PackagePath": "staticwebassets\\CSS\\Assets\\3points.png"
+    },
+    {
+      "Id": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\CSS\\Assets\\6519743.png",
+      "PackagePath": "staticwebassets\\CSS\\Assets\\6519743.png"
+    },
+    {
+      "Id": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\CSS\\Assets\\7345546-removebg-preview.png",
+      "PackagePath": "staticwebassets\\CSS\\Assets\\7345546-removebg-preview.png"
+    },
+    {
+      "Id": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\CSS\\Assets\\AddingBook.png",
+      "PackagePath": "staticwebassets\\CSS\\Assets\\AddingBook.png"
+    },
+    {
+      "Id": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\CSS\\Assets\\FDsyl.ico",
+      "PackagePath": "staticwebassets\\CSS\\Assets\\FDsyl.ico"
+    },
+    {
+      "Id": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\CSS\\Assets\\Lock.png",
+      "PackagePath": "staticwebassets\\CSS\\Assets\\Lock.png"
+    },
+    {
+      "Id": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\CSS\\Assets\\Microsoft-Logo.png",
+      "PackagePath": "staticwebassets\\CSS\\Assets\\Microsoft-Logo.png"
+    },
+    {
+      "Id": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\CSS\\Assets\\OIP-removebg-preview.png",
+      "PackagePath": "staticwebassets\\CSS\\Assets\\OIP-removebg-preview.png"
+    },
+    {
+      "Id": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\CSS\\Assets\\OpenBook.png",
+      "PackagePath": "staticwebassets\\CSS\\Assets\\OpenBook.png"
+    },
+    {
+      "Id": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\CSS\\Assets\\PLUSS.png",
+      "PackagePath": "staticwebassets\\CSS\\Assets\\PLUSS.png"
+    },
+    {
+      "Id": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\CSS\\Assets\\R.jpeg",
+      "PackagePath": "staticwebassets\\CSS\\Assets\\R.jpeg"
+    },
+    {
+      "Id": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\CSS\\Assets\\Star.png",
+      "PackagePath": "staticwebassets\\CSS\\Assets\\Star.png"
+    },
+    {
+      "Id": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\CSS\\Assets\\addshelf.png",
+      "PackagePath": "staticwebassets\\CSS\\Assets\\addshelf.png"
+    },
+    {
+      "Id": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\CSS\\Assets\\booklogo-removebg-preview.png",
+      "PackagePath": "staticwebassets\\CSS\\Assets\\booklogo-removebg-preview.png"
+    },
+    {
+      "Id": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\CSS\\Assets\\description.jpg",
+      "PackagePath": "staticwebassets\\CSS\\Assets\\description.jpg"
+    },
+    {
+      "Id": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\CSS\\Assets\\hiu_6.jpg",
+      "PackagePath": "staticwebassets\\CSS\\Assets\\hiu_6.jpg"
+    },
+    {
+      "Id": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\CSS\\Assets\\home1.jpg",
+      "PackagePath": "staticwebassets\\CSS\\Assets\\home1.jpg"
+    },
+    {
+      "Id": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\CSS\\Assets\\libraryback.jpeg",
+      "PackagePath": "staticwebassets\\CSS\\Assets\\libraryback.jpeg"
+    },
+    {
+      "Id": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\CSS\\Assets\\tantibooks.jpg",
+      "PackagePath": "staticwebassets\\CSS\\Assets\\tantibooks.jpg"
+    },
+    {
+      "Id": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\CSS\\Assets\\tantissimilibri.jpg",
+      "PackagePath": "staticwebassets\\CSS\\Assets\\tantissimilibri.jpg"
+    },
+    {
+      "Id": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\CSS\\BookViewer.css",
+      "PackagePath": "staticwebassets\\CSS\\BookViewer.css"
+    },
+    {
+      "Id": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\CSS\\Covers\\A849XTHamBnq5RlhyN.jpg",
+      "PackagePath": "staticwebassets\\CSS\\Covers\\A849XTHamBnq5RlhyN.jpg"
+    },
+    {
+      "Id": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\CSS\\Covers\\MlUsj6jlZ9mpwKEZCt.jpg",
+      "PackagePath": "staticwebassets\\CSS\\Covers\\MlUsj6jlZ9mpwKEZCt.jpg"
+    },
+    {
+      "Id": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\CSS\\Covers\\V1DRXBVfRvCa8ozt9b.jpg",
+      "PackagePath": "staticwebassets\\CSS\\Covers\\V1DRXBVfRvCa8ozt9b.jpg"
+    },
+    {
+      "Id": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\CSS\\Covers\\WLBcxj0Xa7RDjBqXFr.png",
+      "PackagePath": "staticwebassets\\CSS\\Covers\\WLBcxj0Xa7RDjBqXFr.png"
+    },
+    {
+      "Id": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\CSS\\Covers\\mgLGEQzeoKSRc9H2Ll.png",
+      "PackagePath": "staticwebassets\\CSS\\Covers\\mgLGEQzeoKSRc9H2Ll.png"
+    },
+    {
+      "Id": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\CSS\\Covers\\n8dnOOg0jrvd46n4Sk.jpg",
+      "PackagePath": "staticwebassets\\CSS\\Covers\\n8dnOOg0jrvd46n4Sk.jpg"
+    },
+    {
+      "Id": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\CSS\\Covers\\pjbDlW4H4m4mF0r9AB.png",
+      "PackagePath": "staticwebassets\\CSS\\Covers\\pjbDlW4H4m4mF0r9AB.png"
+    },
+    {
+      "Id": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\CSS\\Genres.css",
+      "PackagePath": "staticwebassets\\CSS\\Genres.css"
+    },
+    {
+      "Id": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\CSS\\HomePageCss.css",
+      "PackagePath": "staticwebassets\\CSS\\HomePageCss.css"
+    },
+    {
+      "Id": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\CSS\\Librayr.css",
+      "PackagePath": "staticwebassets\\CSS\\Librayr.css"
+    },
+    {
+      "Id": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\CSS\\NewBookcss.Css",
+      "PackagePath": "staticwebassets\\CSS\\NewBookcss.Css"
+    },
+    {
+      "Id": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\CSS\\NewGenre.css",
+      "PackagePath": "staticwebassets\\CSS\\NewGenre.css"
+    },
+    {
+      "Id": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\CSS\\Shelves.css",
+      "PackagePath": "staticwebassets\\CSS\\Shelves.css"
+    },
+    {
+      "Id": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\Genre.html",
+      "PackagePath": "staticwebassets\\Genre.html"
+    },
+    {
+      "Id": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\Genres.html",
+      "PackagePath": "staticwebassets\\Genres.html"
+    },
+    {
+      "Id": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\GnereViewer.html",
+      "PackagePath": "staticwebassets\\GnereViewer.html"
+    },
+    {
+      "Id": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\Javascript\\AddShelf.js",
+      "PackagePath": "staticwebassets\\Javascript\\AddShelf.js"
+    },
+    {
+      "Id": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\Javascript\\AddingGenre.js",
+      "PackagePath": "staticwebassets\\Javascript\\AddingGenre.js"
+    },
+    {
+      "Id": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\Javascript\\BookAddingHandler.js",
+      "PackagePath": "staticwebassets\\Javascript\\BookAddingHandler.js"
+    },
+    {
+      "Id": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\Javascript\\BookViewer.js",
+      "PackagePath": "staticwebassets\\Javascript\\BookViewer.js"
+    },
+    {
+      "Id": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\Javascript\\Classes.js",
+      "PackagePath": "staticwebassets\\Javascript\\Classes.js"
+    },
+    {
+      "Id": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\Javascript\\GenreHandler.js",
+      "PackagePath": "staticwebassets\\Javascript\\GenreHandler.js"
+    },
+    {
+      "Id": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\Javascript\\Genres.js",
+      "PackagePath": "staticwebassets\\Javascript\\Genres.js"
+    },
+    {
+      "Id": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\Javascript\\Javascript.js",
+      "PackagePath": "staticwebassets\\Javascript\\Javascript.js"
+    },
+    {
+      "Id": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\Javascript\\LibraryHandler.js",
+      "PackagePath": "staticwebassets\\Javascript\\LibraryHandler.js"
+    },
+    {
+      "Id": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\Javascript\\Shelves.js",
+      "PackagePath": "staticwebassets\\Javascript\\Shelves.js"
+    },
+    {
+      "Id": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\Library.html",
+      "PackagePath": "staticwebassets\\Library.html"
+    },
+    {
+      "Id": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\NewBook.html",
+      "PackagePath": "staticwebassets\\NewBook.html"
+    },
+    {
+      "Id": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\NewGenre.html",
+      "PackagePath": "staticwebassets\\NewGenre.html"
+    },
+    {
+      "Id": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\Shelves.html",
+      "PackagePath": "staticwebassets\\Shelves.html"
+    },
+    {
+      "Id": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.QuartaProvaPCTO.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.QuartaProvaPCTO.props",
+      "PackagePath": "build\\QuartaProvaPCTO.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.QuartaProvaPCTO.props",
+      "PackagePath": "buildMultiTargeting\\QuartaProvaPCTO.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.QuartaProvaPCTO.props",
+      "PackagePath": "buildTransitive\\QuartaProvaPCTO.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

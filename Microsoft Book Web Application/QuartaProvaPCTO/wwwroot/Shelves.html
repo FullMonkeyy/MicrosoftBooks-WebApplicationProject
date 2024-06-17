@@ -1,0 +1,60 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="CSS/Shelves.css" />
+    <script src="Javascript/Classes.js"></script>
+    <title>Scaffali</title>
+    <link rel="icon" href="CSS\Assets\FDsyl.ico" type="image/x-icon">
+    <title></title>
+</head>
+<body>
+    <div id="bookview" style="display:none;">
+        <div id="chiudipop">X</div>
+        <div id="booktitle"></div>
+        <div id="innerbookview">
+            <img id="bookimage">
+            <div id="bookstory"></div>
+        </div>
+    </div>
+    <div id="title" class="containers secondary">
+        <img id="logo" src="CSS/Assets/Microsoft-Logo.png">
+        <div id="innertitle">
+            <div id="o1" class="option">Home</div>
+            <div id="o2" class="option">Account</div>
+            <div id="o3" style="color:brown" class="option">My Libreria</div>
+        </div>
+    </div>
+    <div id="titlepage" style="width:100%">Scaffali</div>
+    <div id="Shelves">
+
+    </div>
+    
+    <div id="popupelimina" style="display:none" >
+     <div id="warning">Sei sicuro di voler cancellare questo scaffale?</div>  
+    <div id="annulla">Annulla</div>
+    <div id="cancella">Elimina Scaffale</div>
+    </div>
+    <script src="Javascript/Shelves.js"></script>
+    <script>
+        document.getElementById("o3").addEventListener("click", function () {
+
+            window.location.href = 'Library.html';
+
+        });
+        document.getElementById("o1").addEventListener("click", function () {
+
+            window.location.href = 'index.html';
+
+        });
+        document.getElementById("chiudipop").addEventListener("click", function () {
+
+            document.getElementById("bookview").style.display = "none";
+            document.getElementById("Shelves").style.filter = "brightness(100%)";
+            document.body.style.overflow = "auto";
+
+        });
+       
+    </script>
+</body>
+</html>

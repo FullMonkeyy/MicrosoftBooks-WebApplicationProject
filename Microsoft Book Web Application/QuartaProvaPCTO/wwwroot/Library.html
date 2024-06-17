@@ -1,0 +1,73 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="CSS/Librayr.css" />
+    <title>Libreria</title>
+    <link rel="icon" href="CSS\Assets\FDsyl.ico" type="image/x-icon">
+</head>
+<body>
+    <div id="title" class="containers secondary">
+        <img id="logo" src="CSS/Assets/Microsoft-Logo.png">
+        <div id="innertitle">
+            <div id="o1" class="option">Home</div>
+            <div id="o2" class="option">Account</div>
+            <div id="o3" style="color:brown" class="option">My Libreria</div>
+        </div>
+    </div>
+
+    <div id="presentation">
+        <div id="bookshandler">
+            <labe id="cercalabel">Cerca</label>
+                <input type="text" id="searchbar">
+                <select id="selectionsearch">
+                    <option>Titolo</option>
+                    <option>Genere</option>
+                    <option>Scaffale</option>
+                </select>
+            <label>Presi in prestito</label>
+            <input id="presiinprestito" type="checkbox" />
+        </div>
+
+
+        <div id="result">
+
+        </div>
+    </div>
+
+    </div>
+
+    <div id="contacts" class="containers secondary" style="margin-top:70px" ">
+        <img id="ute" src="CSS/Assets/OIP-removebg-preview.png" style="width:60px;height:40px;">
+        <div id="coder" style="height:60px">Coder: Scapellato Davide</div>
+        <div id="tel" style="height:60px">Telefono: +39 3203440031</div>
+        <div id="tel" style="height:60px">Email: scapellato.davide06@gmail.com</div>
+        <div id="tel" style="height:60px">Indirizzo: Via Ragazzo Bello 45 Varese Italia</div>
+    </div>
+    <div id="bookview" style="display:none;">
+        <div id="chiudipop">X</div>
+        <div id="booktitle"></div>
+        <div id="innerbookview">
+            <img id="bookimage">
+            <div id="bookstory"></div>
+        </div>
+    </div>
+    <script src="Javascript/Classes.js"></script>
+    <script src="Javascript/LibraryHandler.js"></script>
+    <script>
+        document.getElementById("o1").addEventListener("click", function () {
+
+            window.location.href = 'index.html';
+
+        });
+        document.getElementById("chiudipop").addEventListener("click", function () {
+
+            document.getElementById("bookview").style.display = "none";
+            document.getElementById("result").style.filter = "brightness(100%)";
+            document.body.style.overflow = "auto";
+
+        });
+    </script>
+
+</body>
+</html>

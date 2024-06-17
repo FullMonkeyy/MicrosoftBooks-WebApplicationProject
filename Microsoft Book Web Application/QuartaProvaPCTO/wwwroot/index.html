@@ -1,0 +1,66 @@
+
+<html lang="en">
+  <head>
+    <link rel="stylesheet" href="CSS/HomePageCss.css">
+    <title>Home Page</title>
+    <link rel="icon" href="CSS\Assets\FDsyl.ico" type="image/x-icon">
+  </head>
+  <body>
+    
+    <div id="title" class="containers secondary">
+        <img id="logo"src="CSS/Assets/Microsoft-Logo.png">
+        <div id="innertitle">
+            <div id="o1" style="color:brown" class="option">Home</div>
+            <div id="o2" class="option">Account</div>
+            <div id="o3" class="option">My Libreria</div>
+        </div>
+    </div>
+    <div id="presentation" class="containers main">
+        <div id="innerpresentation1">
+            <div id="presentiontext1">La tua libreria intelligente</div><br>
+            <div id="presentiontext2">Un nuovo modo di gestire tutti i libri che ami in un unico posto.</div>
+            <div id="arrow" onclick="AddNewBook()">Inserisci un libro</div>
+        </div>
+    </div>
+    <div id="description" class="containers central">
+
+        <div id="textdescription"> 
+            <div id="innertextdescription1">   Organizzazione ai massimi livelli</div>
+            <div id="innertextdescription2">   Rimani sbalordito dalle impressionanti prestazioni di calcolo logisitco eseguito dai server piu' potenti in circolazione grazie alle più sofisticate tecnologie di Entity Framework.</div>
+        </div>
+            
+            
+        <img id="immgdes"src="CSS/Assets/hiu_6.jpg" style="position:relative;width:500px; height:500px;">
+
+    </div>
+    <div id="footer" class="containers main">
+    
+      
+      <img id="immgdes"src="CSS/Assets/Lock.png" style="position:relative;width:350px; height:350px; margin-left:10%;">
+      <div id="textdescription"> 
+        <div id="innertextdescription3" style="color:black">   Sicurezza garantita</div>
+        <div id="innertextdescription4" style="color:black">   Con questo sistema si avra' modo di accedere secondo avanzati protocolli di Microsoft Authentication.</div>
+      </div>
+      
+    </div>
+    
+    <div id="contacts" class="containers secondary">
+
+
+      <img id="ute" src="CSS/Assets/OIP-removebg-preview.png" style="width:60px;height:40px;">
+      <div id="coder" style="height:60px">Coder: Scapellato Davide</div>
+      <div id="tel" style="height:60px">Telefono: +39 3203440031</div>
+      <div id="tel" style="height:60px">Email: scapellato.davide06@gmail.com</div>
+      <div id="tel" style="height:60px">Indirizzo: Via Ragazzo Bello 45 Varese Italia</div>
+    </div>
+   
+    <script src="Javascript\Javascript.js"></script>
+      <script>
+          document.getElementById("o3").addEventListener("click", function () {
+
+              window.location.href = 'Library.html';
+
+          });
+      </script>
+  </body>
+</html>

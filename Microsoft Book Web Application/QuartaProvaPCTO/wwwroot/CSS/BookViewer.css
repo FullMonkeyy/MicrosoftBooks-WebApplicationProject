@@ -1,0 +1,297 @@
+﻿body {
+    margin: 0px;
+    font-family: 'Helvetica';
+    height: fit-content;
+    background-image: url(Assets/libraryback.jpeg);
+    background-size: cover;
+}
+.containers {
+    margin: 0px;
+    position: relative;
+    top: 0%;
+    width: 100%;
+   
+}
+#title {
+    background-color: rgb(165, 178, 188);
+    position: fixed;
+    display: flex;
+    z-index: 10;
+}
+
+#logo {
+    margin-left: 5%;
+}
+
+#innertitle {
+    position: relative;
+    top: 30%;
+    margin-left: 55%;
+    display: flex;
+    flex-wrap: wrap;
+    width: 390;
+}
+.secondary {
+    height: 80px;
+    text-align: center;
+}
+
+.option {
+    height: 50px;
+    width: 130px;
+    font-size: 18pt;
+    transition: color 0.5s;
+    cursor: pointer;
+}
+    .option:hover {
+        color: rgb(98, 143, 143);
+        transition: color 0.5s;
+    }
+#main {
+    
+    margin: auto;
+    margin-top: 80px;
+    width: 1500px;
+    height: 690px;
+    display: flex;
+}
+#imagevisulizer {
+    margin-top: 20px;
+    margin-left: 60px;
+    width: 30%;
+    height: 104.5%;
+    background-color: gray;
+    border: black 1px solid;
+    box-shadow: 0px 0px 10px black;
+}
+#bookinformation {
+    border: black 1px solid;
+    margin-top: 20px;
+    margin-left: 60px;
+    width: 50%;
+    height: 90%;
+    background-color: gray;
+    padding: 50px;
+    box-shadow: 0px 0px 10px black;
+}
+#bookinformation, #imagevisulizer {
+    background-color: rgba(255, 255, 255, 0.3); /* Colore di sfondo trasparente */
+    backdrop-filter: blur(3px); /* Applica uno sfocatura al filtro */
+    border-radius: 10px;
+}
+#bookimage {
+    box-shadow: 0px 0px 10px black;
+    max-width: 95%;
+    max-height: 75%;
+    height:fit-content;
+    position: relative;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    border-radius: 10px;
+}
+#subimage {
+    text-align: center;
+    font-size: 20pt;
+    position: absolute;
+    top: 90%;
+    left:50%;
+    transform:translate(-50%,-50%);
+    margin: auto;
+    background-color: rgba(0, 0, 255, 0.3);
+    backdrop-filter: blur(3px);
+    width: 70%;
+    height: fit-content;
+    padding: 10px;
+    border-radius: 10px;
+    border-top-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+.labelbook {
+    width: 100%;
+    font-size: 18pt;
+  
+}
+#TitleBook{
+
+    width:80%;
+    height:80px;
+    font-size:40pt;
+
+
+}
+#Author {
+    width: 80%;
+    height: 40px;
+    font-size:25pt;
+}
+#Story {
+    width: 80%;
+    height: 200px;
+    font-size: 16pt;
+    resize: vertical;
+    font-family: 'Helvetica';
+}
+#Shelf{
+
+    position:relative;
+    width:52.5%;
+    height:50px;
+    font-size:20pt;
+
+}
+input {
+    background-color: rgba(0, 0, 255, 0.3);
+    backdrop-filter: blur(3px);
+    border: none;
+    border-radius: 10px;
+    border-top-left-radius: 0;
+    border-bottom-right-radius: 0;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    box-shadow: 0px 0px 10px black;
+}
+textarea {
+    border-radius: 10px;
+    border-top-left-radius: 0;
+    border-bottom-right-radius: 0;
+    background-color: beige;
+    height: 10%;
+    background-color: rgba(0, 0, 255, 0.3);
+    backdrop-filter: blur(3px);
+    box-shadow: 0px 0px 10px black;
+}
+.genre {
+    cursor: pointer;
+    width: fit-content;
+    height: 25px;
+    font-size: 15pt;
+    border: black solid 1px;
+    padding: 5px;
+    margin-left: 10px;
+    border-radius: 10px;
+    border-top-left-radius: 0;
+    border-bottom-right-radius: 0;
+    transition: transform 0.5s;
+    cursor: pointer;
+}
+#Genres {
+    margin-top: 20px;
+    width: 80%;
+    height: 18%;
+    overflow: auto;
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 10px;
+
+}
+.genre:hover {
+    transform: scale(0.9);
+}
+#Salva {
+    position: relative;
+    left: 85%;
+    top: -20%;
+    height: fit-content;
+    width: fit-content;
+    padding: 10px;
+    border: black solid 1px;
+    border-radius: 10px;
+    border-top-left-radius: 0;
+    border-bottom-right-radius: 0;
+    background-color:burlywood;
+    transition:transform 0.5s;
+    cursor:pointer;
+}
+#Salva:hover{
+
+    transform:scale(0.9);
+
+}
+.popoelimina {
+    position: relative;
+    width: fit-content;
+    height: fit-content;
+    padding: 5px;
+    border: black solid 1px;
+    top: 30%;
+    font-size: 13pt;
+    background-color: red;
+}
+    .popoelimina:hover {
+        background-color: darkred;
+    }
+#AddGenreImage{
+
+    height:100%;
+
+}
+.generiopzionali {
+    width: fit-content;
+    height: fit-content;
+    padding: 5px;
+    border: black 1px solid;
+    border-radius: 10px;
+    border-top-left-radius: 0;
+    border-bottom-right-radius: 0;
+    transition: transform 0.5s;
+    cursor:pointer;
+}
+    .generiopzionali:hover {
+        transform: scale(0.9);
+    }
+#popop{
+
+    display:flex;
+    width:200px;
+
+}
+#Shelf {
+    border-radius: 10px;
+    border-top-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+#popupcambiamenti {
+    width: 600px;
+    height: 300px;
+    border-radius: 30px;
+    border-top-left-radius: 0;
+    border-bottom-right-radius: 0;
+    background-color: rgba(0, 0, 255, 0.3);
+    backdrop-filter: blur(10px);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    position: fixed;
+    box-shadow: 0px 0px 15px black;
+}
+#innerpop {
+    width: 100%;
+    height: fit-content;
+    font-size: 26pt;
+    text-align:center;
+    position:relative;
+    top:50%;
+    transform:translateY(-50%);
+
+}
+#chiudipop {
+    width: 65px;
+    text-align: center;
+    line-height: 2.5;
+    height: 40px;
+    background-color: red;
+    position: absolute;
+    top: 0%;
+    right: 0%;
+    border-radius: 30px;
+    border-top-left-radius: 0;
+    border-bottom-right-radius: 0;
+    transition: background-color 0.2s;
+    box-shadow:0px 0px 15px black;
+    cursor:pointer;
+}
+    #chiudipop:hover {
+        background-color: darkred;
+    }

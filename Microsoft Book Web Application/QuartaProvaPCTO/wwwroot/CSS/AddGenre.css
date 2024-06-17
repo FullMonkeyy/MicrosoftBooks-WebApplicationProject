@@ -1,0 +1,159 @@
+﻿body {
+    font-family: 'Helvetica';
+    margin: 0;
+    background-image:url(Assets/R.jpeg);
+    background-size:cover;
+    
+}
+
+#main {
+    width: 1300px;
+    height: 700px;
+    background-color: rgba(0, 0, 255, 0.3); /* Colore di sfondo trasparente */
+    backdrop-filter: blur(3px); /* Applica uno sfocatura al filtro */
+    box-shadow: 0px 0px 10px black;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-size: 30pt;
+    border-radius:60px;
+}
+
+#labeltext {
+    position: relative;
+    top: 15%;
+}
+#labeltext1{
+    position: relative;
+    top: 35%;
+}
+#genrename {
+    position: relative;
+    top: 23%;
+    width: 40%;
+    height: 7%;
+    font-size: 20pt;
+    border-radius: 10px; /* Applica bordo arrotondato a tutti gli angoli */
+    border-top-left-radius: 0; /* Imposta il bordo arrotondato solo per l'angolo inferiore sinistro */
+    border-bottom-right-radius: 0;
+}
+#description {
+    position: relative;
+    top: 40%;
+    width: 40%;
+    height: 16%;
+    font-size: 20pt;
+    border-radius: 30px; /* Applica bordo arrotondato a tutti gli angoli */
+    border-top-left-radius: 0; /* Imposta il bordo arrotondato solo per l'angolo inferiore sinistro */
+    border-bottom-right-radius: 0;
+}
+
+#genrelabel {
+    position: relative;
+    top: 30%;
+}
+
+#forming {
+    position: relative;
+    left: 8%;
+    height: 500px;
+}
+
+
+#addshelf {
+    width: 125px;
+    height: 50px;
+    font-size: 20pt;
+    position: relative;
+    left: 85%;
+    top: -10%;
+    border-radius: 10px; /* Applica bordo arrotondato a tutti gli angoli */
+    border-top-left-radius: 0; /* Imposta il bordo arrotondato solo per l'angolo inferiore sinistro */
+    border-bottom-right-radius: 0;
+    transition: transform 0.2s;
+    cursor: pointer;
+}
+    #addshelf:hover{
+
+        transform:scale(0.9);
+
+    }
+
+#popup {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 760px;
+    height: 270px;
+    background-color: cornsilk;
+    box-shadow: 0px 0px 15px black;
+    border-radius: 25px;
+}
+
+#innerpopup {
+    position: relative;
+    left: 5%;
+    top: 14%;
+    font-size: 25pt;
+}
+
+#altrolibro {
+    position: relative;
+    left: 5%;
+    top: 25%;
+    font-size: 15pt;
+    border: black solid 1px;
+    width: 27%;
+    height: 7%;
+    padding: 3%;
+    background-color: lightcyan;
+    text-align: center;
+    transition: transform 0.5s;
+    border-radius: 25px;
+    box-shadow: 0px 0px 15px black;
+    cursor: pointer;
+}
+
+    #altrolibro:hover {
+        transform: scale(0.9);
+    }
+
+#vaiallalibreria {
+    border-radius: 25px;
+    position: relative;
+    left: 60%;
+    top: 49%;
+    font-size: 15pt;
+    width: 29%;
+    height: 7%;
+    padding: 3%;
+    border: black solid 1px;
+    background-color: lightslategray;
+    transition: transform 0.5s;
+    box-shadow: 0px 0px 15px black;
+    cursor: pointer;
+}
+
+    #vaiallalibreria:hover {
+        transform: scale(0.9);
+    }
+
+#indietro {
+    font-size: 16pt;
+    width: fit-content;
+    height: fit-content;
+    background-color: darkkhaki;
+    position: relative;
+    padding: 15px;
+    top: 30%;
+    left: 75%;
+    border-radius: 20px;
+    transition: transform 0.5s;
+    cursor:pointer;
+}
+
+    #indietro:hover {
+        transform: scale(0.9);
+    }

@@ -1,0 +1,41 @@
+﻿<html>
+<head>
+    <link rel="stylesheet" href="CSS/AddGenre.css">
+     <title>Nuovo Genere</title>
+   <link rel="icon" href="CSS\Assets\FDsyl.ico" type="image/x-icon">
+  
+</head>
+<body>
+
+    <div id="main">
+
+        <div id="forming">
+            <div id="indietro" class="titletexts" onclick="">Torna Indietro</div>
+            <label id="labeltext">Nome del nuovo genere</label><br />
+            <input type="text" id="genrename" /><br />
+            <label id="labeltext1">Descrizione del genere</label><br />
+            <input type="text" id="description" /><br />
+
+        </div>
+        <button id="addshelf" onclick="storegenre()">Aggiungi</button>
+    </div>
+    <div id="popup" style="display:none">
+        <div id="innerpopup">Genere inserito con successo!</div>
+        <div id="vaiallalibreria">Visualizza la tua libreria</div>
+        <div id="altrolibro">Continua</div>
+    </div>
+    <script src="Javascript/Classes.js"></script>
+    <script src="Javascript/AddingGenre.js"></script>
+    <script>
+        document.getElementById("vaiallalibreria").addEventListener("click", function () {
+
+
+            window.location.href = 'Library.html';
+
+
+        })
+    </script>
+    
+
+</body>
+</html>

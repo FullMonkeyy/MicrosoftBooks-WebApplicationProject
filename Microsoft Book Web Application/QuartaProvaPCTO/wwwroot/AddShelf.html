@@ -1,0 +1,30 @@
+﻿<html>
+<head>
+    <link rel="stylesheet" href="CSS/AddShelf.css">
+    <title>Nuovo Scaffale</title>
+    <link rel="icon" href="CSS\Assets\FDsyl.ico" type="image/x-icon">
+</head>
+<body>
+
+    <div id="main">
+        
+        <div id="forming">
+            <div id="indietro" class="titletexts" onclick="">Torna Indietro</div>
+            <label id="labeltext">Nome del nuovo scaffale</label><br />
+            <input type="text" id="shelfname" /><br />
+            <label id="genrelabel">Scegli il genere di correlazione(opzionale)</label><br />
+            <div id="genreselection"></div>
+
+        </div>
+        <button id="addshelf" onclick="storeshelf()">Aggiungi</button>
+    </div>
+    <div id="popup" style="display:none">
+        <div id="innerpopup">Scaffale inserito con successo!</div>
+        <div id="vaiallalibreria">Visualizza la tua libreria</div>
+        <div id="altrolibro">Continua</div>
+    </div>
+    <script src="Javascript/Classes.js"></script>
+    <script src="Javascript/AddShelf.js"></script>
+    <script>GetGenres();</script>
+</body>
+</html>

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuartaProvaPCTO", "QuartaProvaPCTO\QuartaProvaPCTO.csproj", "{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3F0DB2A-2A22-40AD-AA0C-B1D72025FCB9}
+	EndGlobalSection
+EndGlobal

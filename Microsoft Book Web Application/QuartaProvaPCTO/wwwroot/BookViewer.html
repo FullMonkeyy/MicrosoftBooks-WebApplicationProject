@@ -1,0 +1,72 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="CSS/BookViewer.css" />
+    <script src="Javascript/Classes.js"></script>
+    <title>Modifica Libro</title>
+    <link rel="icon" href="CSS\Assets\FDsyl.ico" type="image/x-icon">
+    <title></title>
+</head>
+<body>
+    <div id="title" class="containers secondary">
+        <img id="logo" src="CSS/Assets/Microsoft-Logo.png">
+        <div id="innertitle">
+            <div id="o1" class="option">Home</div>
+            <div id="o2" class="option">Account</div>
+            <div id="o3" style="color:brown"  class="option">My Libreria</div>
+        </div>
+    </div>
+    <div id="main">
+        <div id="imagevisulizer">
+
+            <img id="bookimage" src="" />
+            <div id="subimage">
+
+
+
+            </div>
+
+        </div>
+        <div id="bookinformation">
+
+            <label class="labelbook">Titolo del libro:</label><br />
+            <input id="TitleBook"><br />
+            <label class="labelbook">Autore del libro:</label><br />
+            <input id="Author"><br />
+            <label class="labelbook" >Trama del libro:</label><br />
+            <textarea id="Story" rows="4" cols="50"></textarea><br />
+            <label class="labelbook">Scaffale del libro: </label>
+            <select id="Shelf">
+                </select><br />
+            <label class="labelbook">Generi del libro:</label><br />
+            <div id="Genres">
+            </div>
+            <div id="Salva">Salva Modifiche</div>
+        </div>
+    </div>
+    <div id="popupcambiamenti" style="display:none;" >
+        <div id="innerpop">Modifiche effettuate con successo</div>
+        <div id="chiudipop">X</div>
+    </div>
+    <script src="Javascript/BookViewer.js"></script>
+    <script>
+        document.getElementById("o3").addEventListener("click", function () {
+
+            window.location.href = 'Library.html';
+
+        });
+        document.getElementById("o1").addEventListener("click", function () {
+
+            window.location.href = 'index.html';
+
+        });
+        document.getElementById("chiudipop").addEventListener("click", function () {
+
+            document.getElementById("popupcambiamenti").style.display = "none";
+
+            location.reload();
+        });
+    </script>
+</body>
+</html>

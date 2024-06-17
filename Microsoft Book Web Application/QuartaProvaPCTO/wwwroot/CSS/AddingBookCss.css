@@ -1,0 +1,144 @@
+﻿body {
+    margin: 0;
+    background-color: #C4BFB6;
+    font-family: 'Helvetica';
+    background-image: url(/CSS/Assets/R.jpeg);
+    background-size: cover;
+}
+#main {
+    width: 1300px;
+    height: 700px;
+    background-color:rgba(128, 128, 128, 0.5);
+    backdrop-filter : blur(3px);
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    box-shadow: 0px 0px 20px black;
+    border-radius:50px;
+}
+#innertitle{
+
+    width:65%;
+    height:5%;
+    font-size:36pt;
+  color:black;
+   position:relative;
+   top:3%;
+   left:3%;
+   
+
+}
+#innermain {
+    width: 75%;
+    height: 75%;
+    position: relative;
+    top: 10%;
+    left: 3%;
+    background-color: antiquewhite;
+    display: flex;
+    box-shadow: 0px 0px 25px black;
+    border-radius: 50px;
+}
+#innerform{
+
+    width:90%;
+    height:80%;
+    position:relative;
+    top:3%;
+    left:5%;
+
+}
+.etich{
+
+    font-size:20pt;
+
+}
+.inputtext {
+    margin-top: 10px;
+    width: 90%;
+    height: 10%;
+    font-size: 20pt;
+    box-shadow: 0px 0px 3px black;
+    border-radius:10px;
+}
+#pagine {
+    margin-top: 10px;
+    width: 10%;
+    height: 10%;
+    font-size: 20pt;
+    box-shadow: 0px 0px 3px black;
+    border-radius: 10px;
+}
+#salva {
+    height:8%;
+    position: relative;
+    top: 85%;
+    left:-12%;
+    border-radius:10px;
+    transition:filter 0.5s;
+}
+#salva:hover{
+
+    filter:brightness(60%);
+
+}
+#popup {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: 760px;
+    height: 270px;
+    background-color: cornsilk;
+    box-shadow: 0px 0px 15px black;
+    border-radius: 20px;
+}
+#innerpopup {
+    position: relative;
+    left: 5%;
+    top:14%;
+    font-size:25pt;
+}
+#altrolibro {
+    position: relative;
+    left: 5%;
+    top: 25%;
+    font-size: 15pt;
+    border: black solid 1px;
+    width: 27%;
+    height: 7%;
+    padding: 3%;
+    background-color: lightcyan;
+    transition: transform 0.5s;
+    box-shadow: 0px 0px 15px black;
+    border-radius: 20px;
+}
+#altrolibro:hover{
+
+    transform:scale(0.9);
+
+}
+#vaiallalibreria {
+    position: relative;
+    left: 60%;
+    top: 49%;
+    font-size: 15pt;
+    width: 29%;
+    height: 7%;
+    padding: 3%;
+    border: black solid 1px;
+    background-color: lightslategray;
+    transition: transform 0.5s;
+    box-shadow: 0px 0px 15px black;
+    border-radius: 20px;
+}
+ #vaiallalibreria:hover {
+        transform: scale(0.9);
+
+  }
+#bookimage {
+    position: relative;
+    top:5%;
+    
+}

@@ -1,0 +1,36 @@
+<html>
+<head>
+    <script src="Javascript\Classes.js"></script>
+    <link rel="stylesheet" href="CSS/AddingBookCss.css" />
+    <title>Nuovo Libro</title>
+    <link rel="icon" href="CSS\Assets\FDsyl.ico" type="image/x-icon">
+</head>
+<body>
+    <div id="main">
+        <div id="innertitle"> Informazioni sul libro</div>
+        <div id="innermain">
+
+            <div id="innerform">
+                <label class="etich">Titolo</label><br>
+                <input class="inputtext" type="text" id="Titolo" /><br><br>
+                <label class="etich">Autore</label><br>
+                <input class="inputtext" type="text" id="Autore" /><br><br>
+                <label class="etich">Trama</label><br>
+                <input class="inputtext" type="text" id="Trama" /><br><br>
+                <label class="etich">Numero di pagine</label><br>
+                <input  type="text" id="pagine" /><br><br>
+                <label style="font-size:15pt;"class="etich">Scegli l'immagine della copertina</label><br>
+                <input type="file" id="bookimage" />
+            </div>
+           
+            <button id="salva" onclick="SalvaLibro()">Salva Libro</button>
+        </div>
+        <div id="popup" style="display:none">
+            <div id="innerpopup">L'inserimento e' andato a buon fine!</div>
+            <div id="vaiallalibreria">Visualizza la tua libreria</div>
+            <div id="altrolibro">Aggiungi un altro libro</div>
+        </div>
+    </div>
+    <script src="Javascript\BookAddingHandler.js"></script>
+</body>
+</html>

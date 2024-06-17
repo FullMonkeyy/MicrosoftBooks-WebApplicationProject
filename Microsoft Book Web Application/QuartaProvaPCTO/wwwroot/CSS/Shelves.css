@@ -1,0 +1,375 @@
+﻿
+body {
+    margin: 0px;
+    font-family: 'Helvetica';
+    background-image: url(Assets/libraryback.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.containers {
+    margin: 0px;
+    position: relative;
+    top: 0%;
+    width: 100%;
+}
+
+#title {
+    background-color: rgb(165, 178, 188);
+    position: fixed;
+    display: flex;
+    z-index: 10;
+}
+
+#logo {
+    margin-left: 5%;
+}
+
+#innertitle {
+    position: relative;
+    top: 30%;
+    margin-left: 50%;
+    display: flex;
+    flex-wrap: wrap;
+    width: 390px;
+}
+
+.secondary {
+    height: 80px;
+    text-align: center;
+}
+
+.option {
+    height: 50px;
+    width: 130px;
+    font-size: 18pt;
+    transition: color 0.5s;
+    cursor: pointer;
+}
+
+    .option:hover {
+        color: rgb(98, 143, 143);
+        transition: color 0.5s;
+    }
+#Shelves {
+
+    margin-top:60px;
+    width: 97%;
+    height: fit-content;
+    display:flex;
+    flex-wrap:wrap;
+    padding:20px;
+}
+.shelf {
+    width: 100%;
+    height: 300px;
+    position: relative;
+    margin-top: 100px;
+   
+}
+.add {
+    background-color: red;
+    width: 900px;
+    height: 200px;
+    position: relative;
+    margin: auto;
+    margin-top: 115px;
+    background-color: rgba(196,98,16, 0.8);
+    backdrop-filter: blur(3px);
+    border-radius: 30px;
+    transition: transform 0.3s;
+    box-shadow: 0px 0px 10px black;
+}
+.add:hover{
+    transform:scale(0.9);
+}
+    .shelfimg {
+        position:relative;
+        top:50%;
+        left:50%;
+        transform:translate(-50%,-50%);
+        height:70%;
+        max-width: 100%;
+        max-height: 100%;
+    }
+.innershelftext {
+    width: fit-content;
+    height: fit-content;
+    padding: 5PX;
+    font-size: 25pt;
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: rgba(196,98,16, 0.8);
+    border-radius: 10px; /* Applica bordo arrotondato a tutti gli angoli */
+    border-bottom-left-radius: 0; /* Imposta il bordo arrotondato solo per l'angolo inferiore sinistro */
+    border-bottom-right-radius: 0;
+    backdrop-filter: blur(20px);
+}
+.Books {
+    box-shadow: 0px 0px 10px black;
+    max-width: 95%;
+    height: 250px;
+    background-color: rgba(255, 255, 255, 0.3); /* Colore di sfondo trasparente */
+    backdrop-filter: blur(3px); /* Applica uno sfocatura al filtro */
+    border-radius: 10px;
+    border-top-right-radius: 0;
+    position: relative;
+    left: 50%;
+    overflow: auto;
+    transform: translateX(-50%);
+    display: flex;
+    flex-wrap: wrap;
+    border-bottom-left-radius: 0; /* Imposta il bordo arrotondato solo per l'angolo inferiore sinistro */
+    border-bottom-right-radius: 0;
+}
+.BOOK {
+    box-shadow: 0px 0px 10px black;
+    display: flex;
+    height: 155px;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100px;
+    margin-left: 21px;
+    margin-top: 50px;
+    transition: transform 0.3s;
+    padding: 10px;
+    border: black 1px solid;
+    border-radius: 10px; /* Applica bordo arrotondato a tutti gli angoli */
+    border-top-left-radius: 0; /* Imposta il bordo arrotondato solo per l'angolo inferiore sinistro */
+    border-bottom-right-radius: 0;
+    background-color: rgba(255, 255, 255, 0.3); /* Colore di sfondo trasparente */
+    backdrop-filter: blur(3px);
+    font-size:9pt;
+      cursor:pointer;
+}
+    .BOOK:hover {
+        transform: scale(0.9);
+       
+    }
+.bookimage {
+    box-shadow: 0px 0px 10px black;
+    margin: auto;
+    max-width: 100%;
+    max-height: 70%;
+}
+#bookview {
+    width: 600px;
+    height: 500px;
+    background-color: brown;
+    z-index: 9;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    position: fixed;
+    border-radius: 50px; /* Applica bordo arrotondato a tutti gli angoli */
+    border-top-left-radius: 0; /* Imposta il bordo arrotondato solo per l'angolo inferiore sinistro */
+    border-bottom-right-radius: 0;
+    background-color: rgba(255, 255, 255, 0.6); /* Colore di sfondo trasparente */
+    backdrop-filter: blur(3px);
+    display: flex;
+    flex-wrap: wrap;
+}
+#booktitle {
+
+    height: 10%;
+    width: 80%;
+    position:relative;
+    left:50%;
+    transform:translateX(-50%);
+    margin-top:14px;
+    text-align:center;
+    font-size:20pt;
+    line-height:150%;
+}
+#innerbookview{
+
+    width:93.4%;
+    height:82%;
+    padding:20px;
+    display:flex;
+}
+#bookimage {
+    width: fit-content;
+    height: fit-content;
+    max-width: 45%;
+    max-height: 100%;
+    background-color: aqua;
+    position: relative;
+    top: 48%;
+    transform: translateY(-50%);
+    border-radius: 10px; /* Applica bordo arrotondato a tutti gli angoli */
+    border-top-left-radius: 0; /* Imposta il bordo arrotondato solo per l'angolo inferiore sinistro */
+    border-bottom-right-radius: 0;
+    box-shadow: 0px 0px 10px black;
+}
+#bookstory {
+    height: 80%;
+    width: 55%;
+    border-radius: 10px; /* Applica bordo arrotondato a tutti gli angoli */
+    margin-left: 30px;
+    padding: 30px;
+    font-size: 10pt;
+    background-color: rgba(0,0, 255, 0.3); /* Colore di sfondo trasparente */
+    backdrop-filter: blur(5px);
+    overflow: auto;
+    box-shadow: 0px 0px 10px black;
+}
+#chiudipop {
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    background-color: red;
+    right: 0;
+    border-radius: 10px; /* Applica bordo arrotondato a tutti gli angoli */
+    border-top-left-radius: 0; /* Imposta il bordo arrotondato solo per l'angolo inferiore sinistro */
+    border-bottom-right-radius: 0;
+    text-align: center;
+    line-height: 300%;
+    transition: transform 0.3s;
+}
+    #chiudipop:hover {
+        transform: scale(0.9);
+    }
+.EliminaShelf {
+    box-shadow: 0px 0px 10px black;
+    position: absolute;
+    right: 35px;
+    top: 10px;
+    width: fit-content;
+    height: fit-content;
+    padding: 10px;
+    background-color: red;
+    border-radius: 10px; /* Applica bordo arrotondato a tutti gli angoli */
+    border-bottom-left-radius: 0; /* Imposta il bordo arrotondato solo per l'angolo inferiore sinistro */
+    border-bottom-right-radius: 0;
+    transition: background-color 0.3s;
+    cursor: pointer;
+}
+    .EliminaShelf:hover {
+        background-color: darkred;
+    }
+.genrecontainer{
+
+    width:fit-content;
+    height:50px;
+    background-color:lightgreen;
+
+
+}
+#popupelimina {
+    width: 600px;
+    padding: 50px;
+    height: 400px;
+    position: absolute;
+    background-color: rgba(255,0, 100, 0.7); /* Colore di sfondo trasparente */
+    backdrop-filter: blur(2px);
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    border-radius: 30px; /* Applica bordo arrotondato a tutti gli angoli */
+    border-top-left-radius: 0; /* Imposta il bordo arrotondato solo per l'angolo inferiore sinistro */
+    border-bottom-right-radius: 0;
+   position:fixed;
+   box-shadow:0px 0px 15px black;
+}
+#warning{
+
+    width:100%;
+    height:30%;
+    text-align:center;
+    font-size:35pt;
+
+
+}
+#annulla {
+    box-shadow: 0px 0px 15px black;
+    width: 45%;
+    background-color: green;
+    height: 20%;
+    text-align: center;
+    line-height: 5;
+    position: relative;
+    top: 30%;
+    border-radius: 20px;
+    background-color: rgba(0,255, 100, 0.7); /* Colore di sfondo trasparente */
+    backdrop-filter: blur(2px);
+    transition: transform 0.3s;
+    cursor: pointer;
+}
+    #annulla:hover {
+        transform: scale(0.9);
+    }
+#cancella {
+    width: 45%;
+    height: 20%;
+    text-align: center;
+    border-radius: 20px;
+    background-color: rgba(100,100, 255, 0.7);
+    line-height: 5;
+    margin-left: 60px;
+    border-radius: 20px;
+    transition: transform 0.3s;
+    position: relative;
+    top: 10%;
+    left: 43%;
+    cursor: pointer;
+    box-shadow: 0px 0px 15px black;
+}
+    #cancella:hover {
+        transform: scale(0.9);
+    }
+
+#titlepage {
+    position: absolute;
+    text-align: center;
+    height: 80px;
+    top: 80px;
+    font-size: 50pt;
+    background-color: red;
+    border-radius: 50px; /* Applica bordo arrotondato a tutti gli angoli */
+    border-top-left-radius: 0; /* Imposta il bordo arrotondato solo per l'angolo inferiore sinistro */
+    border-top-right-radius: 0;
+    background-color: rgba(100, 100, 255, 0.6); /* Colore di sfondo trasparente */
+    backdrop-filter: blur(3px);
+}
+.generidelloscaffale {
+    position: absolute;
+    width: 92.5%;
+    height: 50px;
+    max-height: 70px;
+    overflow: auto;
+    border: black 1px solid;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    top: 340px;
+    background-color: rgba(100, 100, 255, 0.6); /* Colore di sfondo trasparente */
+    backdrop-filter: blur(3px);
+    padding: 20px;
+    border-radius: 50px; /* Applica bordo arrotondato a tutti gli angoli */
+    border-top-left-radius: 0; /* Imposta il bordo arrotondato solo per l'angolo inferiore sinistro */
+    border-top-right-radius: 0;
+    display:flex;
+    gap:5px;
+}
+.genere {
+    width: fit-content;
+    height: 20px;
+    padding: 10px;
+    border: black solid 1px;
+    border-radius: 15px; /* Applica bordo arrotondato a tutti gli angoli */
+    border-top-left-radius: 0; /* Imposta il bordo arrotondato solo per l'angolo inferiore sinistro */
+    border-bottom-right-radius: 0;
+    background-color: rgba(255, 100, 255, 0.3); /* Colore di sfondo trasparente */
+    backdrop-filter: blur(3px);
+    cursor: pointer;
+    box-shadow: 0px 0px 15px black;
+    transition:transform 0.2s;
+}
+.genere:hover{
+
+    transform:scale(0.9);
+
+}

@@ -1,0 +1,567 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\QuartaProvaPCTO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}|QuartaProvaPCTO\\QuartaProvaPCTO.csproj|e:\\quartaprovapcto\\quartaprovapcto\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}|QuartaProvaPCTO\\QuartaProvaPCTO.csproj|solutionrelative:quartaprovapcto\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}|QuartaProvaPCTO\\QuartaProvaPCTO.csproj|e:\\quartaprovapcto\\quartaprovapcto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}|QuartaProvaPCTO\\QuartaProvaPCTO.csproj|solutionrelative:quartaprovapcto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}|QuartaProvaPCTO\\QuartaProvaPCTO.csproj|e:\\quartaprovapcto\\quartaprovapcto\\quartaprovapcto.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}|QuartaProvaPCTO\\QuartaProvaPCTO.csproj|solutionrelative:quartaprovapcto\\quartaprovapcto.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}|QuartaProvaPCTO\\QuartaProvaPCTO.csproj|e:\\quartaprovapcto\\quartaprovapcto\\wwwroot\\bookviewer.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}|QuartaProvaPCTO\\QuartaProvaPCTO.csproj|solutionrelative:quartaprovapcto\\wwwroot\\bookviewer.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}|QuartaProvaPCTO\\QuartaProvaPCTO.csproj|e:\\quartaprovapcto\\quartaprovapcto\\entity\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}|QuartaProvaPCTO\\QuartaProvaPCTO.csproj|solutionrelative:quartaprovapcto\\entity\\librarycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}|QuartaProvaPCTO\\QuartaProvaPCTO.csproj|e:\\quartaprovapcto\\quartaprovapcto\\wwwroot\\css\\addshelf.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}|QuartaProvaPCTO\\QuartaProvaPCTO.csproj|solutionrelative:quartaprovapcto\\wwwroot\\css\\addshelf.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}|QuartaProvaPCTO\\QuartaProvaPCTO.csproj|e:\\quartaprovapcto\\quartaprovapcto\\entity\\shelf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}|QuartaProvaPCTO\\QuartaProvaPCTO.csproj|solutionrelative:quartaprovapcto\\entity\\shelf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}|QuartaProvaPCTO\\QuartaProvaPCTO.csproj|e:\\quartaprovapcto\\quartaprovapcto\\wwwroot\\javascript\\bookviewer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}|QuartaProvaPCTO\\QuartaProvaPCTO.csproj|solutionrelative:quartaprovapcto\\wwwroot\\javascript\\bookviewer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}|QuartaProvaPCTO\\QuartaProvaPCTO.csproj|e:\\quartaprovapcto\\quartaprovapcto\\wwwroot\\css\\newbookcss.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}|QuartaProvaPCTO\\QuartaProvaPCTO.csproj|solutionrelative:quartaprovapcto\\wwwroot\\css\\newbookcss.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}|QuartaProvaPCTO\\QuartaProvaPCTO.csproj|e:\\quartaprovapcto\\quartaprovapcto\\wwwroot\\css\\shelves.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}|QuartaProvaPCTO\\QuartaProvaPCTO.csproj|solutionrelative:quartaprovapcto\\wwwroot\\css\\shelves.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}|QuartaProvaPCTO\\QuartaProvaPCTO.csproj|e:\\quartaprovapcto\\quartaprovapcto\\wwwroot\\javascript\\shelves.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}|QuartaProvaPCTO\\QuartaProvaPCTO.csproj|solutionrelative:quartaprovapcto\\wwwroot\\javascript\\shelves.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}|QuartaProvaPCTO\\QuartaProvaPCTO.csproj|e:\\quartaprovapcto\\quartaprovapcto\\wwwroot\\shelves.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}|QuartaProvaPCTO\\QuartaProvaPCTO.csproj|solutionrelative:quartaprovapcto\\wwwroot\\shelves.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}|QuartaProvaPCTO\\QuartaProvaPCTO.csproj|e:\\quartaprovapcto\\quartaprovapcto\\wwwroot\\css\\genres.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}|QuartaProvaPCTO\\QuartaProvaPCTO.csproj|solutionrelative:quartaprovapcto\\wwwroot\\css\\genres.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}|QuartaProvaPCTO\\QuartaProvaPCTO.csproj|e:\\quartaprovapcto\\quartaprovapcto\\models\\shelfmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}|QuartaProvaPCTO\\QuartaProvaPCTO.csproj|solutionrelative:quartaprovapcto\\models\\shelfmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}|QuartaProvaPCTO\\QuartaProvaPCTO.csproj|e:\\quartaprovapcto\\quartaprovapcto\\wwwroot\\css\\addingbookcss.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}|QuartaProvaPCTO\\QuartaProvaPCTO.csproj|solutionrelative:quartaprovapcto\\wwwroot\\css\\addingbookcss.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}|QuartaProvaPCTO\\QuartaProvaPCTO.csproj|e:\\quartaprovapcto\\quartaprovapcto\\wwwroot\\css\\librayr.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}|QuartaProvaPCTO\\QuartaProvaPCTO.csproj|solutionrelative:quartaprovapcto\\wwwroot\\css\\librayr.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}|QuartaProvaPCTO\\QuartaProvaPCTO.csproj|e:\\quartaprovapcto\\quartaprovapcto\\wwwroot\\javascript\\libraryhandler.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}|QuartaProvaPCTO\\QuartaProvaPCTO.csproj|solutionrelative:quartaprovapcto\\wwwroot\\javascript\\libraryhandler.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}|QuartaProvaPCTO\\QuartaProvaPCTO.csproj|e:\\quartaprovapcto\\quartaprovapcto\\wwwroot\\css\\homepagecss.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}|QuartaProvaPCTO\\QuartaProvaPCTO.csproj|solutionrelative:quartaprovapcto\\wwwroot\\css\\homepagecss.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}|QuartaProvaPCTO\\QuartaProvaPCTO.csproj|e:\\quartaprovapcto\\quartaprovapcto\\wwwroot\\genres.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}|QuartaProvaPCTO\\QuartaProvaPCTO.csproj|solutionrelative:quartaprovapcto\\wwwroot\\genres.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}|QuartaProvaPCTO\\QuartaProvaPCTO.csproj|e:\\quartaprovapcto\\quartaprovapcto\\wwwroot\\javascript\\javascript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}|QuartaProvaPCTO\\QuartaProvaPCTO.csproj|solutionrelative:quartaprovapcto\\wwwroot\\javascript\\javascript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}|QuartaProvaPCTO\\QuartaProvaPCTO.csproj|e:\\quartaprovapcto\\quartaprovapcto\\wwwroot\\css\\addgenre.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}|QuartaProvaPCTO\\QuartaProvaPCTO.csproj|solutionrelative:quartaprovapcto\\wwwroot\\css\\addgenre.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}|QuartaProvaPCTO\\QuartaProvaPCTO.csproj|e:\\quartaprovapcto\\quartaprovapcto\\wwwroot\\css\\newgenre.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}|QuartaProvaPCTO\\QuartaProvaPCTO.csproj|solutionrelative:quartaprovapcto\\wwwroot\\css\\newgenre.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}|QuartaProvaPCTO\\QuartaProvaPCTO.csproj|e:\\quartaprovapcto\\quartaprovapcto\\wwwroot\\newgenre.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}|QuartaProvaPCTO\\QuartaProvaPCTO.csproj|solutionrelative:quartaprovapcto\\wwwroot\\newgenre.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}|QuartaProvaPCTO\\QuartaProvaPCTO.csproj|e:\\quartaprovapcto\\quartaprovapcto\\wwwroot\\addingbook.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}|QuartaProvaPCTO\\QuartaProvaPCTO.csproj|solutionrelative:quartaprovapcto\\wwwroot\\addingbook.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}|QuartaProvaPCTO\\QuartaProvaPCTO.csproj|e:\\quartaprovapcto\\quartaprovapcto\\wwwroot\\library.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}|QuartaProvaPCTO\\QuartaProvaPCTO.csproj|solutionrelative:quartaprovapcto\\wwwroot\\library.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}|QuartaProvaPCTO\\QuartaProvaPCTO.csproj|e:\\quartaprovapcto\\quartaprovapcto\\wwwroot\\javascript\\genrehandler.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}|QuartaProvaPCTO\\QuartaProvaPCTO.csproj|solutionrelative:quartaprovapcto\\wwwroot\\javascript\\genrehandler.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}|QuartaProvaPCTO\\QuartaProvaPCTO.csproj|e:\\quartaprovapcto\\quartaprovapcto\\wwwroot\\genre.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}|QuartaProvaPCTO\\QuartaProvaPCTO.csproj|solutionrelative:quartaprovapcto\\wwwroot\\genre.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}|QuartaProvaPCTO\\QuartaProvaPCTO.csproj|e:\\quartaprovapcto\\quartaprovapcto\\wwwroot\\newbook.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}|QuartaProvaPCTO\\QuartaProvaPCTO.csproj|solutionrelative:quartaprovapcto\\wwwroot\\newbook.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}|QuartaProvaPCTO\\QuartaProvaPCTO.csproj|e:\\quartaprovapcto\\quartaprovapcto\\wwwroot\\javascript\\genres.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}|QuartaProvaPCTO\\QuartaProvaPCTO.csproj|solutionrelative:quartaprovapcto\\wwwroot\\javascript\\genres.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}|QuartaProvaPCTO\\QuartaProvaPCTO.csproj|e:\\quartaprovapcto\\quartaprovapcto\\wwwroot\\css\\bookviewer.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}|QuartaProvaPCTO\\QuartaProvaPCTO.csproj|solutionrelative:quartaprovapcto\\wwwroot\\css\\bookviewer.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}|QuartaProvaPCTO\\QuartaProvaPCTO.csproj|e:\\quartaprovapcto\\quartaprovapcto\\wwwroot\\javascript\\bookaddinghandler.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}|QuartaProvaPCTO\\QuartaProvaPCTO.csproj|solutionrelative:quartaprovapcto\\wwwroot\\javascript\\bookaddinghandler.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}|QuartaProvaPCTO\\QuartaProvaPCTO.csproj|e:\\quartaprovapcto\\quartaprovapcto\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}|QuartaProvaPCTO\\QuartaProvaPCTO.csproj|solutionrelative:quartaprovapcto\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}|QuartaProvaPCTO\\QuartaProvaPCTO.csproj|e:\\quartaprovapcto\\quartaprovapcto\\wwwroot\\addshelf.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}|QuartaProvaPCTO\\QuartaProvaPCTO.csproj|solutionrelative:quartaprovapcto\\wwwroot\\addshelf.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}|QuartaProvaPCTO\\QuartaProvaPCTO.csproj|e:\\quartaprovapcto\\quartaprovapcto\\wwwroot\\gnereviewer.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DEFC218-AC30-41FD-AA60-EABFB9A44C0F}|QuartaProvaPCTO\\QuartaProvaPCTO.csproj|solutionrelative:quartaprovapcto\\wwwroot\\gnereviewer.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\Program.cs",
+              "RelativeDocumentMoniker": "QuartaProvaPCTO\\Program.cs",
+              "ToolTip": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\Program.cs",
+              "RelativeToolTip": "QuartaProvaPCTO\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T08:25:27.477Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "NewGenre.css",
+              "DocumentMoniker": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\CSS\\NewGenre.css",
+              "RelativeDocumentMoniker": "QuartaProvaPCTO\\wwwroot\\CSS\\NewGenre.css",
+              "ToolTip": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\CSS\\NewGenre.css",
+              "RelativeToolTip": "QuartaProvaPCTO\\wwwroot\\CSS\\NewGenre.css",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAAAH0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-02-29T10:31:50.934Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NewBookcss.Css",
+              "DocumentMoniker": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\CSS\\NewBookcss.Css",
+              "RelativeDocumentMoniker": "QuartaProvaPCTO\\wwwroot\\CSS\\NewBookcss.Css",
+              "ToolTip": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\CSS\\NewBookcss.Css",
+              "RelativeToolTip": "QuartaProvaPCTO\\wwwroot\\CSS\\NewBookcss.Css",
+              "ViewState": "AQIAAHwAAAAAAAAAAAAAAH0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-02-29T10:19:08.287Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookViewer.js",
+              "DocumentMoniker": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\Javascript\\BookViewer.js",
+              "RelativeDocumentMoniker": "QuartaProvaPCTO\\wwwroot\\Javascript\\BookViewer.js",
+              "ToolTip": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\Javascript\\BookViewer.js",
+              "RelativeToolTip": "QuartaProvaPCTO\\wwwroot\\Javascript\\BookViewer.js",
+              "ViewState": "AQIAAEEBAAAAAAAAAAAAADkBAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-02-28T11:19:01.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LibraryContext.cs",
+              "DocumentMoniker": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\Entity\\LibraryContext.cs",
+              "RelativeDocumentMoniker": "QuartaProvaPCTO\\Entity\\LibraryContext.cs",
+              "ToolTip": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\Entity\\LibraryContext.cs",
+              "RelativeToolTip": "QuartaProvaPCTO\\Entity\\LibraryContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T12:13:51.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QuartaProvaPCTO",
+              "DocumentMoniker": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\QuartaProvaPCTO.csproj",
+              "RelativeDocumentMoniker": "QuartaProvaPCTO\\QuartaProvaPCTO.csproj",
+              "ToolTip": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\QuartaProvaPCTO.csproj",
+              "RelativeToolTip": "QuartaProvaPCTO\\QuartaProvaPCTO.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-04T10:08:06.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddShelf.css",
+              "DocumentMoniker": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\CSS\\AddShelf.css",
+              "RelativeDocumentMoniker": "QuartaProvaPCTO\\wwwroot\\CSS\\AddShelf.css",
+              "ToolTip": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\CSS\\AddShelf.css",
+              "RelativeToolTip": "QuartaProvaPCTO\\wwwroot\\CSS\\AddShelf.css",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAAAHwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-02-28T09:56:18.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookViewer.html",
+              "DocumentMoniker": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\BookViewer.html",
+              "RelativeDocumentMoniker": "QuartaProvaPCTO\\wwwroot\\BookViewer.html",
+              "ToolTip": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\BookViewer.html",
+              "RelativeToolTip": "QuartaProvaPCTO\\wwwroot\\BookViewer.html",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAEMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-02-28T11:26:54.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ShelfModel.cs",
+              "DocumentMoniker": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\Models\\ShelfModel.cs",
+              "RelativeDocumentMoniker": "QuartaProvaPCTO\\Models\\ShelfModel.cs",
+              "ToolTip": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\Models\\ShelfModel.cs",
+              "RelativeToolTip": "QuartaProvaPCTO\\Models\\ShelfModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T11:36:03.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "QuartaProvaPCTO\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\Properties\\launchSettings.json",
+              "RelativeToolTip": "QuartaProvaPCTO\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAgwBwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-04T09:41:48.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Shelf.cs",
+              "DocumentMoniker": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\Entity\\Shelf.cs",
+              "RelativeDocumentMoniker": "QuartaProvaPCTO\\Entity\\Shelf.cs",
+              "ToolTip": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\Entity\\Shelf.cs",
+              "RelativeToolTip": "QuartaProvaPCTO\\Entity\\Shelf.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-06T10:08:09.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Shelves.js",
+              "DocumentMoniker": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\Javascript\\Shelves.js",
+              "RelativeDocumentMoniker": "QuartaProvaPCTO\\wwwroot\\Javascript\\Shelves.js",
+              "ToolTip": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\Javascript\\Shelves.js",
+              "RelativeToolTip": "QuartaProvaPCTO\\wwwroot\\Javascript\\Shelves.js",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAFcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-02-29T10:03:54.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Shelves.css",
+              "DocumentMoniker": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\CSS\\Shelves.css",
+              "RelativeDocumentMoniker": "QuartaProvaPCTO\\wwwroot\\CSS\\Shelves.css",
+              "ToolTip": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\CSS\\Shelves.css",
+              "RelativeToolTip": "QuartaProvaPCTO\\wwwroot\\CSS\\Shelves.css",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-02-28T10:13:26.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Genres.css",
+              "DocumentMoniker": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\CSS\\Genres.css",
+              "RelativeDocumentMoniker": "QuartaProvaPCTO\\wwwroot\\CSS\\Genres.css",
+              "ToolTip": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\CSS\\Genres.css",
+              "RelativeToolTip": "QuartaProvaPCTO\\wwwroot\\CSS\\Genres.css",
+              "ViewState": "AQIAAIwAAAAAAAAAAAAAAKsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-02-28T10:13:41.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Genres.html",
+              "DocumentMoniker": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\Genres.html",
+              "RelativeDocumentMoniker": "QuartaProvaPCTO\\wwwroot\\Genres.html",
+              "ToolTip": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\Genres.html",
+              "RelativeToolTip": "QuartaProvaPCTO\\wwwroot\\Genres.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-02-28T11:25:54.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddingBookCss.css",
+              "DocumentMoniker": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\CSS\\AddingBookCss.css",
+              "RelativeDocumentMoniker": "QuartaProvaPCTO\\wwwroot\\CSS\\AddingBookCss.css",
+              "ToolTip": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\CSS\\AddingBookCss.css",
+              "RelativeToolTip": "QuartaProvaPCTO\\wwwroot\\CSS\\AddingBookCss.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFoAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-02-28T15:53:02.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LibraryHandler.js",
+              "DocumentMoniker": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\Javascript\\LibraryHandler.js",
+              "RelativeDocumentMoniker": "QuartaProvaPCTO\\wwwroot\\Javascript\\LibraryHandler.js",
+              "ToolTip": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\Javascript\\LibraryHandler.js",
+              "RelativeToolTip": "QuartaProvaPCTO\\wwwroot\\Javascript\\LibraryHandler.js",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAAAJ8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-02-28T10:17:20.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Shelves.html",
+              "DocumentMoniker": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\Shelves.html",
+              "RelativeDocumentMoniker": "QuartaProvaPCTO\\wwwroot\\Shelves.html",
+              "ToolTip": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\Shelves.html",
+              "RelativeToolTip": "QuartaProvaPCTO\\wwwroot\\Shelves.html",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-02-28T11:25:38.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomePageCss.css",
+              "DocumentMoniker": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\CSS\\HomePageCss.css",
+              "RelativeDocumentMoniker": "QuartaProvaPCTO\\wwwroot\\CSS\\HomePageCss.css",
+              "ToolTip": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\CSS\\HomePageCss.css",
+              "RelativeToolTip": "QuartaProvaPCTO\\wwwroot\\CSS\\HomePageCss.css",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-02-29T08:03:51.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Librayr.css",
+              "DocumentMoniker": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\CSS\\Librayr.css",
+              "RelativeDocumentMoniker": "QuartaProvaPCTO\\wwwroot\\CSS\\Librayr.css",
+              "ToolTip": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\CSS\\Librayr.css",
+              "RelativeToolTip": "QuartaProvaPCTO\\wwwroot\\CSS\\Librayr.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkCAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-02-28T09:59:27.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AddingBook.html",
+              "DocumentMoniker": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\AddingBook.html",
+              "RelativeDocumentMoniker": "QuartaProvaPCTO\\wwwroot\\AddingBook.html",
+              "ToolTip": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\AddingBook.html",
+              "RelativeToolTip": "QuartaProvaPCTO\\wwwroot\\AddingBook.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-02-28T11:23:34.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Javascript.js",
+              "DocumentMoniker": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\Javascript\\Javascript.js",
+              "RelativeDocumentMoniker": "QuartaProvaPCTO\\wwwroot\\Javascript\\Javascript.js",
+              "ToolTip": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\Javascript\\Javascript.js",
+              "RelativeToolTip": "QuartaProvaPCTO\\wwwroot\\Javascript\\Javascript.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-02-29T10:23:56.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AddGenre.css",
+              "DocumentMoniker": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\CSS\\AddGenre.css",
+              "RelativeDocumentMoniker": "QuartaProvaPCTO\\wwwroot\\CSS\\AddGenre.css",
+              "ToolTip": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\CSS\\AddGenre.css",
+              "RelativeToolTip": "QuartaProvaPCTO\\wwwroot\\CSS\\AddGenre.css",
+              "ViewState": "AQIAAIcAAAAAAAAAAAAAAEoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-02-29T11:30:58.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "NewGenre.html",
+              "DocumentMoniker": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\NewGenre.html",
+              "RelativeDocumentMoniker": "QuartaProvaPCTO\\wwwroot\\NewGenre.html",
+              "ToolTip": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\NewGenre.html",
+              "RelativeToolTip": "QuartaProvaPCTO\\wwwroot\\NewGenre.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-02-28T09:50:02.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Library.html",
+              "DocumentMoniker": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\Library.html",
+              "RelativeDocumentMoniker": "QuartaProvaPCTO\\wwwroot\\Library.html",
+              "ToolTip": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\Library.html",
+              "RelativeToolTip": "QuartaProvaPCTO\\wwwroot\\Library.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-02-28T09:55:14.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "GenreHandler.js",
+              "DocumentMoniker": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\Javascript\\GenreHandler.js",
+              "RelativeDocumentMoniker": "QuartaProvaPCTO\\wwwroot\\Javascript\\GenreHandler.js",
+              "ToolTip": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\Javascript\\GenreHandler.js",
+              "RelativeToolTip": "QuartaProvaPCTO\\wwwroot\\Javascript\\GenreHandler.js",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAAAJEAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-02-29T10:29:52.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Genre.html",
+              "DocumentMoniker": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\Genre.html",
+              "RelativeDocumentMoniker": "QuartaProvaPCTO\\wwwroot\\Genre.html",
+              "ToolTip": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\Genre.html",
+              "RelativeToolTip": "QuartaProvaPCTO\\wwwroot\\Genre.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-02-28T11:27:07.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "NewBook.html",
+              "DocumentMoniker": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\NewBook.html",
+              "RelativeDocumentMoniker": "QuartaProvaPCTO\\wwwroot\\NewBook.html",
+              "ToolTip": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\NewBook.html",
+              "RelativeToolTip": "QuartaProvaPCTO\\wwwroot\\NewBook.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-02-28T11:24:04.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Genres.js",
+              "DocumentMoniker": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\Javascript\\Genres.js",
+              "RelativeDocumentMoniker": "QuartaProvaPCTO\\wwwroot\\Javascript\\Genres.js",
+              "ToolTip": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\Javascript\\Genres.js",
+              "RelativeToolTip": "QuartaProvaPCTO\\wwwroot\\Javascript\\Genres.js",
+              "ViewState": "AQIAAHcAAAAAAAAAAAAAANEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-02-28T11:28:31.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BookViewer.css",
+              "DocumentMoniker": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\CSS\\BookViewer.css",
+              "RelativeDocumentMoniker": "QuartaProvaPCTO\\wwwroot\\CSS\\BookViewer.css",
+              "ToolTip": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\CSS\\BookViewer.css",
+              "RelativeToolTip": "QuartaProvaPCTO\\wwwroot\\CSS\\BookViewer.css",
+              "ViewState": "AQIAAA4BAAAAAAAAAAAAACQBAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-02-28T15:07:53.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BookAddingHandler.js",
+              "DocumentMoniker": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\Javascript\\BookAddingHandler.js",
+              "RelativeDocumentMoniker": "QuartaProvaPCTO\\wwwroot\\Javascript\\BookAddingHandler.js",
+              "ToolTip": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\Javascript\\BookAddingHandler.js",
+              "RelativeToolTip": "QuartaProvaPCTO\\wwwroot\\Javascript\\BookAddingHandler.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-02-28T11:33:55.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "index.html",
+              "DocumentMoniker": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "QuartaProvaPCTO\\wwwroot\\index.html",
+              "ToolTip": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\index.html",
+              "RelativeToolTip": "QuartaProvaPCTO\\wwwroot\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-02-28T11:23:43.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AddShelf.html",
+              "DocumentMoniker": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\AddShelf.html",
+              "RelativeDocumentMoniker": "QuartaProvaPCTO\\wwwroot\\AddShelf.html",
+              "ToolTip": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\AddShelf.html",
+              "RelativeToolTip": "QuartaProvaPCTO\\wwwroot\\AddShelf.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-02-28T11:26:41.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "GnereViewer.html",
+              "DocumentMoniker": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\GnereViewer.html",
+              "RelativeDocumentMoniker": "QuartaProvaPCTO\\wwwroot\\GnereViewer.html",
+              "ToolTip": "E:\\QuartaProvaPCTO\\QuartaProvaPCTO\\wwwroot\\GnereViewer.html",
+              "RelativeToolTip": "QuartaProvaPCTO\\wwwroot\\GnereViewer.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-02-28T11:26:11.992Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
