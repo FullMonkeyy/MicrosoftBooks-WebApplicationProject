@@ -10,11 +10,11 @@ Before start using the application you have to do 4 steps
   2. Now close the application.
   3. Write the follow instruction in Tools->Nuget Package Manager-> Package Manager Consol the following command:
      ```
-      Add-Migration InitialMigration
+     Add-Migration InitialMigration
      ```
   4.Now wait that the command succed and then write this other command:
      ```
-      Update-Database
+     Update-Database
      ```
 
   At this point the webapp should works!
