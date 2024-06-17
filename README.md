@@ -1,4 +1,4 @@
-# MicrosoftBooks-WebApplicationProject
+# Microsoft Books Webapp
 Hi everyone, this is my first fullstack web application that I'd ever made before.
 The webapp has been completely coded in C# for the backend side and javascript,html and css for the frontend side.
 I was eble to create and manage the database by using Microsoft Entity Framework Core. In fact, this is an ASP.NET REST c# web application so there are also apis.
