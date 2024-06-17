@@ -12,7 +12,7 @@ Before start using the application you have to do 4 steps
      ```
      Add-Migration InitialMigration
      ```
-  4.Now wait that the command succed and then write this other command:
+  4. Now wait that the command succed and then write this other command:
      ```
      Update-Database
      ```
