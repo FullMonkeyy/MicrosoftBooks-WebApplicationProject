@@ -11,12 +11,8 @@ Before start using the application you have to do 4 steps
   1. Launch the application for the first time. Obviuosly there will be errors, you have just to continue and follow the instrucion of Visual Studio. Now wait unti the main page of the web site.
   2. Now close the application.
   3. Write the follow instruction in Tools->Nuget Package Manager-> Package Manager Consol the following command:
-     ```
-     Add-Migration InitialMigration
-     ```
+     ``` Add-Migration InitialMigration ```
   4. Now wait that the command succed and then write this other command:
-     ```
-     Update-Database
-     ```
+     ``` Update-Database ```
 
   At this point the webapp should works!
