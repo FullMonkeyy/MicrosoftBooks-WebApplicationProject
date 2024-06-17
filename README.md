@@ -6,7 +6,7 @@ I have to thanks Reti S.p.A. (Busto Arsizio) which teached me how to develop thi
 
 ![Screenshot 2024-05-05 215412](https://github.com/FullMonkeyy/MicrosoftBooks-WebApplicationProject/assets/144152021/71b45323-6615-4295-9ca6-d8f28396aa50)
 
-# How to use MicrosoftBooks
+# How to use Microsoft Books
 Before start using the application you have to do 4 steps
   1. Launch the application for the first time. Obviuosly there will be errors, you have just to continue and follow the instrucion of Visual Studio. Now wait unti the main page of the web site.
   2. Now close the application.
