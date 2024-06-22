@@ -34,7 +34,7 @@
   In the end you'll find your book in My Library.
 
 # To edit a book
-With the mouse pointer hover on a book. Then 3 black points are supposed to appear on the top right corner. Click it.
+With the mouse pointer hover on a book. Then 3 black points are supposed to appear on the top right corner. Clicked that.
 Now click the Modifica button.
 This is the page which you will reach after click it.
 ![Screenshot 2024-05-05 215655](https://github.com/FullMonkeyy/MicrosoftBooks-WebApplicationProject/assets/144152021/74805c15-fb6c-4804-b122-9451d2c30350)
