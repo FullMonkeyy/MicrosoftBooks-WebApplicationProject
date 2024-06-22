@@ -3,7 +3,7 @@
   The webapp has been completely coded in C# for the backend side and javascript,html and css for the frontend side.
   I was eble to create and manage the database by using Microsoft Entity Framework Core. In fact, this is an ASP.NET REST c# web application so there are also apis.
   I have to thanks Reti S.p.A. (Busto Arsizio) which teached me how to develop this kind of web sites as well.
-  In the end i just want to say this is merely an interpretaion of mine of a possible library manager made by Microsoft.
+  In the end i just want to say this is merely an interpretaion of mine of a possible library manager made by Microsoft :).
   
   ![Screenshot 2024-05-05 215412](https://github.com/FullMonkeyy/MicrosoftBooks-WebApplicationProject/assets/144152021/71b45323-6615-4295-9ca6-d8f28396aa50)
 
